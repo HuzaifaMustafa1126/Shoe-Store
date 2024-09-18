@@ -1,7 +1,6 @@
-
-
-
-/* CSS */
+.navbar{
+  overflow: hidden;
+}
 .button-86 {
   all: unset;
   width: 100px;
