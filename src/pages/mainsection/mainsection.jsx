@@ -25,7 +25,7 @@ function mainsection() {
                 <button class="btn"> Shop now
                 </button>
                 </a>
-                <div className="w-25 h-25 d-flex gap-4 mt-5 ">
+                <div className="d-flex gap-4 mt-5 shoes ">
                     <button className='shoebtn'>
                     <img src={Shoe1} alt="" className='navshoes'/>
                     </button>
@@ -35,7 +35,8 @@ function mainsection() {
                     <button className='shoebtn'>
                     <img src={Shoe3} alt="" className='navshoes'/>
                     </button>
-                    </div>
+                </div>
+                
                 </div>
                
             </div>
