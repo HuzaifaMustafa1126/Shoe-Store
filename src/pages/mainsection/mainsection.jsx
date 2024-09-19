@@ -10,10 +10,12 @@ function mainsection() {
     <div>
         <div className="main-banner">
         <div class="container">
+          <div className="container-fluid">
+
         <div class="row align-items-center">
-            <div class="col-lg-4  ">
+            <div class="col-lg-4 ">
                 <div className="rightcol">
-                <h1 class="text-white bg-danger text main-text mb-5 mt-0 ">Men's Shoes</h1>
+                <h1 class="text-white bg-danger text main-text mb-4 mt-0 ">Men's Shoes</h1>
                 <p className='fs-5'>It started with a simple idea: Create quality, well-designed products that I wanted myself.</p>
                 <div className='d-flex'>
                 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 76 76" fill="none" className='m-1'>
@@ -46,6 +48,7 @@ function mainsection() {
                 </div>
             </div>
             
+          </div>
             
         </div>
       </div>
